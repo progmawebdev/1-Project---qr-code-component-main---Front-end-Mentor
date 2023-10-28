@@ -15,20 +15,20 @@ E você tem a responsabilidade de gerenciar o seu.
 É isso, até mais!!! Progma saindo!!
 
 # Hello, Progma here!!!
-# This is a Front-end Mentor beginner level project for study.
-# I'm studying web programming. And I already knew the platform, but only here was I embarrassed to actually study web development.
-# It is very important that every programmer tries to do the Front-end Mentor challenges.
-# If you don't know it, here's my recommendation.
-# Now, stop being lazy and go study, consecrated!!
-# Get the beginner level projects from Front-end Mentor and at least try to do it. If you don't succeed at first, ask for help!
-# Look for resolution videos, posts and everything that is useful for your learning.
-# But, above all, HAVE PATIENCE!!
-# Don't trust a course that promises that in 6 months it will make you a front-end dev, everyone has their time.
-# And you have the responsibility to manage yours.
+This is a Front-end Mentor beginner level project for study.
+I'm studying web programming. And I already knew the platform, but only here was I embarrassed to actually study web development.
+It is very important that every programmer tries to do the Front-end Mentor challenges.
+If you don't know it, here's my recommendation.
+Now, stop being lazy and go study, consecrated!!
+Get the beginner level projects from Front-end Mentor and at least try to do it. If you don't succeed at first, ask for help!
+Look for resolution videos, posts and everything that is useful for your learning.
+But, above all, HAVE PATIENCE!!
+Don't trust a course that promises that in 6 months it will make you a front-end dev, everyone has their time.
+And you have the responsibility to manage yours.
 
 # I have a tiktok account, follow me there: @progmawebdev
 
-# That's it, see you later!!! Progma out!!
+That's it, see you later!!! Progma out!!
 
 
 # Frontend Mentor - QR code component
